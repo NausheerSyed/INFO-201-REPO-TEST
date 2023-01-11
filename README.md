@@ -2,4 +2,4 @@
 first repo
 
 
-hello yes my name is nausheer. I'm a first year at UW
+hello yes my name is nausheer. I'm a first year at UW. I love INFO!
